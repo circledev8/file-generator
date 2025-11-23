@@ -1,4 +1,4 @@
-<a href="https://circledev8.github.io/file-generator/">
+<a href="https://gbitcode.github.io/file-generator/">
 <img src="icons/main.png" alt="isolated" width="100"/></a>
 
 The file generator allows you to create mock files of varying sizes.
@@ -11,4 +11,4 @@ The file generator allows you to create mock files of varying sizes.
 - Generate PDF 
 - Generate ZIP with complex rules structure for testing
 
-The generator is published [here](https://circledev8.github.io/file-generator/).
+The generator is published [here](https://gbitcode.github.io/file-generator/).
